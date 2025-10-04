@@ -1,0 +1,27 @@
+# Compiled output
+*.exe
+*.o
+*.obj
+*.out
+
+# Save file
+save.txt
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+
+# Build directories
+build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
